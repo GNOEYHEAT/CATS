@@ -3,11 +3,11 @@ CATS: Coin Automated Trading System
 
 ## Environments
 	python 3.8
-  pyupbit
+  	pyupbit
 	numpy 1.19.5
-  pandas 1.35
-  prophet
-  neuralprophet
+  	pandas 1.35
+  	prophet
+  	neuralprophet
   
 ## Usage
 
